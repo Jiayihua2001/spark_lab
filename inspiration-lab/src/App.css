@@ -1,0 +1,26 @@
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 2rem;
+  background: linear-gradient(to bottom, #e0e7ff, #fff);
+}
+
+button {
+  padding: 0.6rem 1.2rem;
+  border-radius: 12px;
+  border: none;
+  background-color: #6366f1;
+  color: white;
+  cursor: pointer;
+  margin: 1rem 0;
+}
+
+.card {
+  background: white;
+  padding: 1rem;
+  border-radius: 20px;
+  max-width: 400px;
+  margin: 0 auto;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
